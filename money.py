@@ -21,6 +21,7 @@ class Currency:
         self.symbol = symbol
         self.digits = digits
         
+#just to add to push
 
     def __str__(self):
         """
